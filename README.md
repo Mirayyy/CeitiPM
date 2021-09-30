@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Mirayyy/CeitiPM">
-    <img src="http://www.theprojectilkeston.co.uk/wordpress/wp-content/uploads/2017/01/The-Project-Logo-300x116.jpg" alt="Logo" width="80" height="80">
+    <img src="http://www.theprojectilkeston.co.uk/wordpress/wp-content/uploads/2017/01/The-Project-Logo-300x116.jpg" alt="Logo" width="300" height="116">
   </a>
 
   <h3 align="center">CEITI - Josan Victor</h3>
