@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Mirayyy/CeitiPM">
+    <img src="https://previews.123rf.com/images/martialred/martialred1707/martialred170700085/82179492-lightbulb-light-bulb-idea-innovation-or-entrepreneurship-line-art-vector-icon-for-apps-and-websites.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">CEITI - Josan Victor</h3>
@@ -58,7 +58,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Josan Victor - [@your_linkedin](https://www.linkedin.com/in/victorjosan/) - victor.josan@ceiti.md
+Josan Victor - [LinkedIN](https://www.linkedin.com/in/victorjosan/) - victor.josan@ceiti.md
 
 Project Link: [https://github.com/Mirayyy/CeitiPM](https://github.com/Mirayyy/CeitiPM)
 
